@@ -9,4 +9,5 @@ for(let i = 1; i <= n; i++) {
     num++;
   }
   console.log(row);
-}
+} 
+
